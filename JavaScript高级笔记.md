@@ -219,9 +219,9 @@
 					4. getElementsByName(): 根据name属性值获取元素对象们。返回值是一个数组
 				2. 创建其他DOM对象：
 					createAttribute(name)
-                	createComment()
-                	createElement()
-                	createTextNode()
+					createComment()
+					createElement()
+					createTextNode()
 			3. 属性
 		* Element：元素对象
 			1. 获取/创建：通过document来获取和创建
