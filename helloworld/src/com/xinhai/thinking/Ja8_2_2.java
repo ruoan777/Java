@@ -2,6 +2,10 @@ package com.xinhai.thinking;
 
 
 import java.util.*;
+
+/**
+ * test git
+ */
 class Shape {
     public void draw() {}
     public void erase() {}
