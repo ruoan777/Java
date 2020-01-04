@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cc3ec93-2a9a-4819-924a-8158b9536e7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/Test2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/TestData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/xinhai/thinking/Bicycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/xinhai/thinking/Cycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/xinhai/thinking/Ja8_1_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/xinhai/thinking/Tricycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/xinhai/thinking/Unicycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_8_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,15 +37,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_2_2.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_1_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            <state relative-caret-position="396">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
               <folding>
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#401#402#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_8_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -45,8 +70,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Singleton" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/Test2.java" />
         <option value="$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_1_1.java" />
         <option value="$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_2_2.java" />
+        <option value="$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_8_3.java" />
       </list>
     </option>
   </component>
@@ -87,6 +113,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,27 +140,20 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="thinking" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="thinking" type="462c0819:PsiDirectoryNode" />
-              <item name="Ja8_2_2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577615658784" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578120318915" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,14 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ja8_1_1">
-    <configuration name="BallGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BallGame" />
-      <module name="helloworld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ja8_8_3">
     <configuration name="BallGame2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BallGame2" />
       <module name="HelloWorld" />
@@ -163,6 +177,19 @@
     </configuration>
     <configuration name="Ja8_1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xinhai.thinking.Ja8_1_1" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xinhai.thinking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ja8_8_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xinhai.thinking.Ja8_8_3" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -189,19 +216,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BallGame" />
       <item itemvalue="Application.BallGame2" />
       <item itemvalue="Application.TestData" />
       <item itemvalue="Application.Test2" />
       <item itemvalue="Application.Ja8_1_1" />
+      <item itemvalue="Application.Ja8_8_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ja8_8_3" />
         <item itemvalue="Application.Ja8_1_1" />
         <item itemvalue="Application.Test2" />
         <item itemvalue="Application.TestData" />
         <item itemvalue="Application.BallGame2" />
-        <item itemvalue="Application.BallGame" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +252,8 @@
       <workItem from="1565107570469" duration="622000" />
       <workItem from="1574480290502" duration="3343000" />
       <workItem from="1577202359328" duration="5167000" />
-      <workItem from="1577883394773" duration="272000" />
+      <workItem from="1577883394773" duration="4200000" />
+      <workItem from="1578113014488" duration="1204000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1577202483275</created>
@@ -248,11 +276,18 @@
       <option name="project" value="LOCAL" />
       <updated>1577375659195</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test git 20.01.01">
+      <created>1577883826811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577883826811</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28654000" />
+    <option name="totallyTimeSpent" value="33786000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -266,8 +301,8 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1521217" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49911505" visible="true" weight="0.15372297" />
+      <window_info id="Structure" order="1" sideWeight="0.50088495" side_tool="true" weight="0.1521217" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -276,15 +311,15 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35811648" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.35570988" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49959967" weight="0.3125" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297546" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32972974" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49879903" weight="0.3294753" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3158301" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50039935" side_tool="true" weight="0.3297546" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4979984" visible="true" weight="0.2955247" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5020016" side_tool="true" weight="0.39984593" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32898772" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24979983" />
@@ -343,7 +378,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="多态向上转型" />
-    <option name="LAST_COMMIT_MESSAGE" value="多态向上转型" />
+    <MESSAGE value="test git 20.01.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="test git 20.01.01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -383,6 +419,12 @@
           <line>12</line>
           <properties />
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_8_3.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -474,39 +516,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-22963">
           <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="26" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,10 +537,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_2_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        <state relative-caret-position="-415">
+          <caret line="8" column="13" selection-start-line="1" selection-end-line="23" selection-end-column="30" />
           <folding>
             <element signature="e#186#187#0" expanded="true" />
             <element signature="e#237#238#0" expanded="true" />
@@ -535,5 +558,103 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_1_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xinhai/thinking/Ja8_8_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HelloWorld</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
